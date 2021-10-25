@@ -2,7 +2,7 @@
 
 
 1. [Ariss Adam](https://github.com/Adam95NL/prog2-1)
-2. [Baijens Sem]()
+2. Baijens Sem
 3. [Bensaghir Si-Mohamed](https://github.com/BESI090205/prog2)
 4. [Biyadi Nassim](https://github.com/NassimBiyadi/prog2-1)
 5. [Crijns Rens](https://github.com/Crre071105/prog2-1)
